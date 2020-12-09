@@ -16,7 +16,7 @@ case "$opt" in
 	echo "Enter the model"
 	read model
 	newCar="$year : $make : $model"
-	echo $newCar >> My_old_cars
+	echo "$newCar" >> My_old_cars
 	;;
 "2")
 	sort My_old_cars
