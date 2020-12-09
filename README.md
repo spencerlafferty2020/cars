@@ -1,4 +1,11 @@
-# Application Purpose
+## Identifying Information:
+1. Name: Spencer Lafferty
+2. Student ID: 2378112
+3. Email: lafferty@chapman.edu
+4. Class: CPSC-298 02
+5. Assignment: cars
+
+## Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
